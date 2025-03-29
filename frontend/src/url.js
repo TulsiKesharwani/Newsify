@@ -1,0 +1,1 @@
+export const IMGURL = "https://newsify-3azj.onrender.com/images/"
